@@ -41,7 +41,7 @@ Basic Decision Tree Learning Library Exploration on Jupyter Notebook. Create cla
 
 ## Status
 
-Project is: _in progress_
+Project is: _finished_
 
 ## Inspiration
 
